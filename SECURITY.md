@@ -28,9 +28,3 @@ Security and reliability fixes are delivered through the latest signed NexTill r
 - Never share license keys or Installation IDs publicly.
 - Download setup files only from this repository's official Releases page.
 - Verify release checksums when transferring installers through third parties.
-
-## Cloud Data Boundaries
-
-Routine NexTill health reporting contains technical metadata and aggregate record counts. It does not include product details, customer records, invoice contents, passwords, license keys, or full financial data.
-
-Support diagnostics require local administrator approval and are automatically deleted after their retention period.

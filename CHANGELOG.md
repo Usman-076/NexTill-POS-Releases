@@ -2,26 +2,11 @@
 
 ## 1.0.19 - 2026-07-02
 
-### Cloud Control Center
-
-- Added secure shop enrollment and signed outbound heartbeats.
-- Added installation status, version, and technical health visibility.
-- Added cloud license management and security audit history.
-- Added role-based Owner, Administrator, and Support access protected by Cloudflare Access MFA.
-
-### Feedback And Support
-
-- Added in-app feedback with Bug, Suggestion, Support, and Other categories.
-- Added offline feedback queuing and automatic retry.
-- Added support status, priority, assignment, internal notes, and shop replies.
-- Added shop-approved sanitized diagnostics with private, expiring storage.
-
 ### Installation And Reliability
 
 - Improved bundled Apache, PHP, and MariaDB setup.
 - Added automatic Windows services, launcher health checks, and service recovery.
-- Added 15-minute cloud synchronization.
-- Improved customer setup packaging and protected owner-only tooling.
+- Improved customer setup packaging and protected internal tooling.
 
 ### Updates And Security
 

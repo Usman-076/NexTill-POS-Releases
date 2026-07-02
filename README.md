@@ -114,22 +114,6 @@ NexTill keeps the familiar workflow shop staff already understand while replacin
 - License, settings, shop data, and backups preserved across OTA updates
 - Manual database backup support
 
-## NexTill Owner Control Center
-
-Licensed installations can securely connect outbound to the NexTill cloud service:
-
-- Shop online/offline status
-- Installed version and update visibility
-- Technical health summaries
-- License issuance, renewal, suspension, and history
-- In-app customer feedback and support replies
-- Offline feedback queue with automatic retry
-- Shop-approved diagnostic requests
-- Private, time-limited diagnostic storage
-- Staff roles, MFA protection, and security audit history
-
-NexTill does not upload product details, customer records, invoice contents, passwords, license keys, or full financial data as part of routine health reporting.
-
 ## Download
 
 ### New Installation
@@ -153,7 +137,7 @@ The ZIP asset on the release page is intended for NexTill's authenticated in-app
 - Approximately 1 GB free disk space plus room for shop data and backups
 - Chrome, Edge, or another current Chromium-based browser
 - Optional USB barcode scanner and Windows-compatible thermal printer
-- Internet required for activation, updates, and cloud support features
+- Internet required for activation and updates
 - Normal POS operation remains local and can continue without internet
 
 ## Getting Started
@@ -169,7 +153,7 @@ See the complete [Installation Guide](INSTALLATION.md).
 
 ## Security And Privacy
 
-NexTill uses signed licensing, signed update packages, authenticated local actions, CSRF protection, transaction-safe sales/refunds, outbound-only cloud communication, and explicit approval before diagnostic collection.
+NexTill uses signed licensing, signed update packages, authenticated local actions, CSRF protection, transaction-safe sales and refunds, and protected update backups.
 
 Read [SECURITY.md](SECURITY.md) for reporting and operational guidance.
 
@@ -181,7 +165,7 @@ See [LICENSE.md](LICENSE.md).
 
 ## Support
 
-Licensed customers can submit feedback from **Settings → Feedback & Support** inside NexTill. For installation and activation help, see [SUPPORT.md](SUPPORT.md).
+For installation, activation, and operational assistance, contact the NexTill supplier who issued your license. See [SUPPORT.md](SUPPORT.md).
 
 ---
 
