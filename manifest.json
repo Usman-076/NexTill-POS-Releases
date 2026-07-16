@@ -1,9 +1,9 @@
 {
     "product": "nextill-pos",
-    "version": "1.0.32",
-    "package_url": "https://github.com/Usman-076/NexTill-POS-Releases/releases/download/v1.0.32/nextill-pos-1.0.32.zip",
-    "sha256": "95660671f988c8cf4be451790d57e01cdfc9a2af2db49231b943a605f593dc20",
-    "signature": "KPr_zlcare_RouYpxwtO6WJoG6oKq-JBCNnL3JgBXLKQfWqKBOyB8AojOn74rZRA7V84jGCS_v711nEU8lEUpQhIT9p6W3VO-H67oH_-hMsQcGkFMNHGVidb2D_qBvJGbDbWDs8_ThD00HLoqFdK56n7eWj1KerQK5JMsTC9pN3UAjvaQcK3GWXxT9R55Fj4LCCXFpNmUqN9-PDl8T6Ee14jNYAMVe_fR19-zMcI_DGNhTPR3wW-veMylNSBZgzvzzHzDH_PuCIHtFu7pnmwG_kHszPMRD1neQpIwFqzmah__H7uEa6K3UwmFQ9B1MHLXne7zscPgiQY3eVWKkm7J4mnAqUFelEmGUsjHxAFrSN_GLfxercH3pcrNqQ16Qef-1XK3t5TAZVnwV1ifcz5R2xpgIFlIl6wDUYcJAU7GWkTe4vlvr7HtDLL4-kdaZUKiQT1JOSXRTT1InVC5jmdrrgwaN56i_QdOyASrEv_Akpc4rFbJ-Gm0tZ5sCias47m",
+    "version": "1.0.33",
+    "package_url": "https://github.com/Usman-076/NexTill-POS-Releases/releases/download/v1.0.33/nextill-pos-1.0.33.zip",
+    "sha256": "0b51724ad618b2f08b36eb744028fd55c20cf3e912824282c6fcb23444a59cec",
+    "signature": "rqGVc5p43Y2Z3i0UiWysuH6e-cp1X_A4URbJEu0xotxbj3Ij6qnvFGS8UzDUkv3jiWbYFbjMzrpxQueqsvzz909V10HDB6VxCg0uYMkvmM-Rhj1hRYwBAODkzzDXcaLFUqEZPRibyOPcwmB9ZVt3bDRpiwwYGLQu83QvI-DkO1zhbj0OHBkISp_Pf0zwWSvnNLRE_uDhvzY14auwnK7AjsYS1aKHDCVTw1lDLlpE98oi4jaRT5w8DQZncRzK_ar5IG3nBmDhSbpCyGjtP56IpHa34u1fbt1SHlxAfqK3Q7SnyfgPQHQOEIEUc4gldD3ePHDn7gMl5YPJeAIFDRjTQAzR-l14iR53N__Q5OJD1VdG-rtuHBFdtYT7qe8d_Wmqn30dm0okCgbyh3gl47M1Hy31VtQJ5DS9nBBx5jueVbEtinco4uS4TCnc0FCJXZ1UrSzPrV3O4qWJUCUHjq72i72n3O2_ty44s5T2OhLji_vluTvx6D-Ice1UwIw97RYM",
     "requires_restart": true,
-    "published_at": "2026-07-16T15:44:50+00:00"
+    "published_at": "2026-07-16T15:50:46+00:00"
 }
